@@ -47,7 +47,7 @@ git config --global user.email "mort1skoda@gmail.com"
 
 
 create folder:
-==========
+==============
 let's create a new folder for our project:
 <pre>
 mkdir myproject
@@ -55,13 +55,13 @@ cd myproject
 </pre>
 
 Initialize Git:
-=
+===============
 <pre>
 git init
 </pre>
 
 add files:
-=
+==========
 For this example, I am going to use a simple HTML file like this:
 <pre>
 <!DOCTYPE html>
@@ -70,15 +70,13 @@ For this example, I am going to use a simple HTML file like this:
 <title>Hello World!</title>
 </head>
 <body>
-
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
-
 </body>
 </html>
 </pre>
 
-And save it to our new folder as index.html.
+#### And save it to our new folder as index.html.
 
 <pre>
 git status
