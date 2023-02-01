@@ -2,13 +2,13 @@
 ### an easy tutorial.
 
 <pre>
+New learning practice theese:::::
 git reflog
 git reset --merge 56fadc2
 git merge ctrl-alt
 git rm --cached test.txt 
 git checkout master 
 git push -u origin master
-
 </pre>
 
 
@@ -30,8 +30,10 @@ git config --global user.name  "mort1skoda"
 git config --global user.email "mort1skoda@gmail.com"
 </pre>
 
-Note: Use global to set the username and e-mail for every repository on your computer.
-If you want to set the username/e-mail for just the current repo, you can remove global
+### NOTE:
+
+    Use global to set the username and e-mail for every repository on your computer.
+    If you want to set the username/e-mail for just the current repo, you can remove global
 
 
 
