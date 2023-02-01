@@ -81,7 +81,7 @@ git add index.html
 ---
 
 A README.md file that describes the repository (recommended for all repositories):
-Example
+Example:
 <pre>
 # hello-world
 Hello World repository for Git tutorial
@@ -90,7 +90,20 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 </pre>
 
+---
 
+A basic external style sheet (bluestyle.css):
+Example:
+<pre>
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+}
+</pre>
 
 
 
