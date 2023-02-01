@@ -38,3 +38,22 @@ Initialize Git:
 git init
 </pre>
 
+add files:
+=
+For this example, I am going to use a simple HTML file like this:
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+
+</body>
+</html>
+</pre>
+
+And save it to our new folder as index.html.
