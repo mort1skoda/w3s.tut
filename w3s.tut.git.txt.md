@@ -24,7 +24,12 @@ Note: Use global to set the username and e-mail for every repository on your com
 If you want to set the username/e-mail for just the current repo, you can remove global
 
 
-aasdfasdf:
+create folder:
 ==========
+let's create a new folder for our project:
+<pre>
+mkdir myproject
+cd myproject
+</pre>
 
 
