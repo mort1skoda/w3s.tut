@@ -1,6 +1,16 @@
 ## w3s.tut.git.txt.md
 ### an easy tutorial.
 
+<pre>
+git reflog
+git reset --merge 56fadc2
+git merge ctrl-alt
+git rm --cached test.txt 
+git checkout master 
+git push -u origin master
+
+</pre>
+
 
 check version:
 ==============
