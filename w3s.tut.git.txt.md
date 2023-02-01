@@ -106,4 +106,75 @@ margin-left: 20px;
 </pre>
 
 
+And update index.html to include the stylesheet:
+Example:
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+
+</body>
+</html>
+</pre>
+
+---
+
+<pre>
+git add -A
+git status
+git commit -m "First release of Hello World!"
+</pre>
+
+---
+
+Let's add a small update to index.html:
+Example:
+<pre>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+<link rel="stylesheet" href="bluestyle.css">
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+<p>A new line in our file!</p>
+
+</body>
+</html>
+</pre>
+
+---
+
+<pre>
+git status --short
+</pre>
+   M index.html
+
+I can use: git status -s  or
+gs -s
+  check my aliases: .bash_aliases
+ag git
+
+---
+
+###Note: Short status flags are:
+###
+    ###?? - Untracked files
+    ###A - Files added to stage
+    ###M - Modified files
+    ###D - Deleted files
+
+
+
+
 
