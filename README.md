@@ -12,3 +12,14 @@ git fetch origin
 git branch -u origin/main main
 git remote set-head origin -a
 </pre>
+
+<pre>
+
+[w3s.tut.git](https://www.w3schools.com/git/)
+
+[git-scm](https://git-scm.com/)
+
+
+<pre>
+
+
