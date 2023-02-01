@@ -167,12 +167,12 @@ ag git
 
 ---
 
-###Note: Short status flags are:
+### Note: Short status flags are:
 ###
-    ###?? - Untracked files
-    ###A - Files added to stage
-    ###M - Modified files
-    ###D - Deleted files
+    ?? - Untracked files
+    A - Files added to stage
+    M - Modified files
+    D - Deleted files
 
 
 
