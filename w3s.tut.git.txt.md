@@ -32,4 +32,9 @@ mkdir myproject
 cd myproject
 </pre>
 
+Initialize Git:
+=
+<pre>
+git init
+</pre>
 
